@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-Dov Kruger
 Tarun Krishna Suravarapu
 =======
 ha ha i am adding to the first line
